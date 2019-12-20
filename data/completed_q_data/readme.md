@@ -1,0 +1,1 @@
+This file stores completed questionnaire data.
